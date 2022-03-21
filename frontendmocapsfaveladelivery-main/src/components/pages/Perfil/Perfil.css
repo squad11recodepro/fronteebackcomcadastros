@@ -1,0 +1,22 @@
+p {
+  font-size: large;
+}
+
+.pagina-principal-perfil {
+  padding-left: 300px;
+  align-self: center;
+}
+.notacao {
+  color: grey;
+}
+
+.titulo-destaque {
+  font-weight: 700;
+}
+
+.titulo-destaque2 {
+  width: 539px;
+  height: 40px;
+  left: 433px;
+  top: 626px;
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Avaliacao{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    background-image: url("../../img/banner.jpeg");  
+    background-repeat: no-repeat;
+    background-position: ;
+    background-size: cover;
+    height: 300px;
+}
+
+.bannerAvaliacao{
+   
+    text-align: center;    
+    width: 55%;
+    height: 450px;
+    margin-top: 630px;
+    border: 1px solid;
+    background-color: white;
+   
+}
+.containertitulo{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.tituloAvaliacao{
+   
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
